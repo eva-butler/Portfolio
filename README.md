@@ -1,5 +1,5 @@
-# Data Science Portfolio
-This portfolio highlights my Data Science and Data Analysis projects from school, self-learning, and hobbies, which demonstrate my personal intrests
+# Portfolio
+This portfolio showcases my Data Science and Software Engineering projects from school, self-learning, and hobbies, reflecting my eagerness to explore how things work.  
 
 - **Email**: [evasbutler@gmail.com](evasbutler@gmail.com)
 - **LinkedIn**: [linkedin.com/eva-s-butler](https://www.linkedin.com/in/eva-s-butler/)
