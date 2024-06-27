@@ -11,14 +11,21 @@ This portfolio showcases my Data Science and Software Engineering projects from 
 In this project I built a dashboard that showcases data for the top 10,000 goodreads books. I learned how to call APIs to pull images to include on the dashboard.
 
 <br />
+
 ## Micro Projects
+
 <br />
+
 ## Challenges
+
 <br />
+
 ## Core Competencies
+
 - **Methodologies**: Statistics, 
 - **Languages**: Python (Pandas, Numpy, Matplotlib), Java, C++
 - **Tools**: MySQL
-<br />
-## Online Courses Completed and Corresponding Projects
 
+<br />
+
+## Online Courses Completed and Corresponding Projects
