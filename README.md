@@ -6,11 +6,9 @@ This portfolio showcases my Data Science and Software Engineering projects from 
 
 ## Projects
 
-<img align="right" width="250" height="150" src="books.jpg"> **[Dashboard for Top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
+<img align="right" width="250" height="125" src="books.jpg"> **[Dashboard for Top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
 
 In this project I built a dashboard that showcases data for the top 10,000 goodreads books. I learned how to call APIs to pull images to include on the dashboard.
-
-
 
 #
 
