@@ -8,7 +8,7 @@ This portfolio highlights my Data Science and Data Analysis projects from school
 
 ## Projects
 
-<img align="right" width="250" height="150" src="books.jpg"> **[Constructing a Dashboard for top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
+<img align="right" width="250" height="100" src="books.jpg"> **[Constructing a Dashboard for top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
 
 In this project I built a dashboard that showcases data for the top 10,000 goodreads books. I learned how to call APIs to pull images to include on the dashboard.
 
@@ -18,9 +18,13 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 ## Micro Projects
 
+#
+
 <br />
 
 ### Challenges
+
+#
 
 <br />
 
@@ -29,6 +33,8 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 - **Methodologies**: Statistics, 
 - **Languages**: Python (Pandas, Numpy, Matplotlib), Java, C++
 - **Tools**: MySQL
+
+#
 
 <br />
 
