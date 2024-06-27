@@ -16,8 +16,6 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 ## Micro Projects
 
-#
-
 <br />
 
 ### Challenges
