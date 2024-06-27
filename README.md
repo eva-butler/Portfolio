@@ -27,3 +27,5 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 <br />
 
 ## Online Courses Completed and Corresponding Projects
+- **[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)** : [notes]:()
+- 
