@@ -4,8 +4,6 @@ This portfolio highlights my Data Science and Data Analysis projects from school
 - **Email**: [evasbutler@gmail.com](evasbutler@gmail.com)
 - **LinkedIn**: [linkedin.com/eva-s-butler](https://www.linkedin.com/in/eva-s-butler/)
 
-<br />
-
 ## Projects
 
 <img align="right" width="250" height="100" src="books.jpg"> **[Dashboard for Top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
