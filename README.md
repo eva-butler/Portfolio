@@ -8,7 +8,7 @@ This portfolio highlights my Data Science and Data Analysis projects from school
 
 ## Projects
 
-<img align="right" width="250" height="100" src="books.jpg"> **[Constructing a Dashboard for top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
+<img align="right" width="250" height="100" src="books.jpg"> **[Dashboard for Top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
 
 In this project I built a dashboard that showcases data for the top 10,000 goodreads books. I learned how to call APIs to pull images to include on the dashboard.
 
