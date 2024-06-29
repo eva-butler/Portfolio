@@ -23,7 +23,8 @@ Access all microprojects [here](https://github.com/eva-butler/Micro_Projects)
 
 
 ## Challenges
-
+- Kaggle:
+- LeetCode:
 <br />
 
 ## Core Competencies
