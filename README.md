@@ -15,7 +15,7 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 <br />
 
 ## Micro Projects
-1. [Predicting Percent Body Fat using Decision Tree Regression Model](https://github.com/eva-butler/Micro_Projects/blob/main/Decision_Tree_Models/body_fat_percentage_predictions.ipynb)
+1. [Predicting Percent Body Fat using Decision Tree Regression Model](https://github.com/eva-butler/Micro_Projects/blob/main/Decision_Tree_Models/body_fat_percentage_predictions.ipynb): In this microproject, I explore the Body Fat Prediction Dataset from Kaggle, which includes measurements from 252 men, such as body density, body fat percentage, age, weight, height, and various circumference metrics. The primary objective is to apply the Decision Tree model using sklearn to predict body fat percentage based on these measurements.
 
 <br/>
 
