@@ -33,5 +33,5 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 <br />
 
 ## Online Courses Completed, Certificates, and Notes
-- **[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)** : [Certificate]() : [notes](https://github.com/eva-butler/Notes/blob/main/Intro_to_Machine_Learning.md)
+- **[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)** : [Certificate](https://github.com/eva-butler/Portfolio/blob/main/EvaSButler%20-%20Intro%20to%20Machine%20Learning.png) : [notes](https://github.com/eva-butler/Notes/blob/main/Intro_to_Machine_Learning.md)
 - 
