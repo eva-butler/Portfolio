@@ -36,4 +36,4 @@ Access all microprojects [here](https://github.com/eva-butler/Micro_Projects)
 
 ## Online Courses Completed, Certificates, and Notes
 - **[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)** : [Certificate](https://github.com/eva-butler/Portfolio/blob/main/EvaSButler%20-%20Intro%20to%20Machine%20Learning.png) : [notes](https://github.com/eva-butler/Notes/blob/main/Intro_to_Machine_Learning.md)
-- 
+- **[Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning): [Certificate](): [notes](https://github.com/eva-butler/Notes/blob/main/Intermediate_Machine_Learning)
