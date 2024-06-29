@@ -29,7 +29,7 @@ Access all microprojects [here](https://github.com/eva-butler/Micro_Projects)
 ## Core Competencies
 
 - **Methodologies**: Statistics, 
-- **Languages**: Python (Pandas, Numpy, Matplotlib), Java, C++
+- **Languages**: Python (Pandas, Numpy, Matplotlib, Sklearn), Java, C++
 - **Tools**: MySQL
 
 <br />
