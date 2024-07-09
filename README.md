@@ -3,7 +3,7 @@ This portfolio showcases my Data Science and Software Engineering projects from 
 
 - **Email**: [evasbutler@gmail.com](evasbutler@gmail.com)
 - **LinkedIn**: [linkedin.com/eva-s-butler](https://www.linkedin.com/in/eva-s-butler/)
-- **Resume**: [here]()
+- **Resume**: [here](https://github.com/eva-butler/Portfolio/blob/main/Eva_Butler_Resume.pdf)
 
 ## Projects
 
