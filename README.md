@@ -15,7 +15,7 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 <br />
 
-<img align="right" width="250" height="115" src="reverse_image_finder.jpg"> **[Reverse Product Finder](https://github.com/eva-butler/Reverse-product-finder)**
+<img align="right" width="250" height="150" src="reverse_image_finder.jpg"> **[Reverse Product Finder](https://github.com/eva-butler/Reverse-product-finder)**
 
 Product Finder is a web application that helps users find the best deals on products by uploading an image of the item. It uses advanced image recognition technology to identify products and web scraping to gather availability and pricing from various online retailers. The app features an interactive map to show in-store availability nearby. Users can compare prices across multiple websites and discover similar items with detailed information. The technology stack includes React.js for the frontend, Node.js and Express.js for the backend, Google Cloud Vision API for image recognition, and Puppeteer and Cheerio for web scraping.
 #
