@@ -30,11 +30,6 @@ Access all microprojects [here](https://github.com/eva-butler/Micro_Projects)
 <br/>
 
 
-## Challenges
-- Kaggle:
-- LeetCode:
-<br />
-
 ## Core Competencies
 
 - **Methodologies**: Statistics, 
