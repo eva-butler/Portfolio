@@ -17,9 +17,7 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 **Under Contstruction** I am currently working on building a game called SpellWright! Details to come :) 
 
-
-<br />
-<br />
+Spellwright is a magical puzzle adventure where players channel arcane energy through rune-filled circuitry, unlocking rare ingredients with each challenge. Combine these ingredients through experimental crafting to discover powerful potions that reshape future puzzles and unveil the secrets of a living spellbook.
 
 #
 
