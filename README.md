@@ -13,7 +13,7 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 #
 
-<img align="right" width="250" height="250" src="spellWrightImage.png"> **[SpellWright](https://github.com/eva-butler/spellwright)**
+<img align="right" width="250" height="200" src="spellWrightImage.png"> **[SpellWright](https://github.com/eva-butler/spellwright)**
 
 **Under Contstruction** I am currently working on building a game called SpellWright! Details to come :) 
 
