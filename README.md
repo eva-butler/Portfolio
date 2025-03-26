@@ -13,6 +13,12 @@ In this project I built a dashboard that showcases data for the top 10,000 goodr
 
 #
 
+<img align="right" width="250" height="115" src="books.jpg"> **[Dashboard for Top 10,000 Goodreads Reviews](https://github.com/eva-butler/DS4003_evabutler)**
+
+**Under Contstruction** I am currently working on building a game called SpellWright! Details to come :) 
+
+#
+
 <br />
 
 
